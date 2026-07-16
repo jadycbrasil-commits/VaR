@@ -1,7 +1,7 @@
 # VaR
 # Value at Risk (VaR)
 
-Projeto desenvolvido para demonstrar conhecimentos em:
+
 
 - SQL Avançado
 - Window Functions
