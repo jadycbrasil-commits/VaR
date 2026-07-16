@@ -1,2 +1,17 @@
 # VaR
-Projeto para cálculo de Value at Risk (VaR) utilizando SQL e análise estatística. Inclui métodos Histórico e Paramétrico, cálculo de retornos, volatilidade, percentis, visualizações e exemplos aplicados à gestão de risco de mercado e carteiras de investimento.
+# Value at Risk (VaR)
+
+Projeto desenvolvido para demonstrar conhecimentos em:
+
+- SQL Avançado
+- Window Functions
+- Estatística Financeira
+- Gestão de Risco de Mercado
+- Python para análise quantitativa
+
+Métodos implementados:
+
+- VaR Histórico
+- VaR Paramétrico
+- Cálculo de Retornos
+- Visualização de Distribuição de Risco
